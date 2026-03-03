@@ -174,7 +174,6 @@
     name = "ms-surface/0018-surface-pro-11-intel-cameras";
     patch = patchSrc + "/0018-surface-pro-11-intel-cameras.patch";
   }
-  }
   {
     name = "ms-surface/0019-surface-pro-11-intel-shutdown_quirk";
     patch = patchSrc + "/0019-surface-pro-11-intel-shutdown_quirk.patch";
