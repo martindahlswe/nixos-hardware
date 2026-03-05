@@ -170,10 +170,10 @@
     name = "ms-surface/0017-surface-pro-11-intel-sound";
     patch = patchSrc + "/0017-surface-pro-11-intel-sound.patch";
   }
-#   {
-#     name = "ms-surface/0018-surface-pro-11-intel-cameras";
-#     patch = patchSrc + "/0018-surface-pro-11-intel-cameras.patch";
-#   }
+  {
+    name = "ms-surface/0018-surface-pro-11-intel-cameras";
+    patch = patchSrc + "/0018-surface-pro-11-intel-cameras.patch";
+  }
   {
     name = "ms-surface/0019-surface-pro-11-intel-shutdown_quirk";
     patch = patchSrc + "/0019-surface-pro-11-intel-shutdown_quirk.patch";
@@ -182,10 +182,10 @@
     name = "ms-surface/0020-surface-pro-11-intel-touchpad";
     patch = patchSrc + "/0020-surface-pro-11-intel-touchpad.patch";
   }
-  {
-    name = "ms-surface/0021-surface-pro-11-ir-camera";
-    patch = patchSrc + "/0021-surface-pro-11-ir-camera.patch";
-  }
+  #{
+  #  name = "ms-surface/0021-surface-pro-11-ir-camera";
+  #  patch = patchSrc + "/0021-surface-pro-11-ir-camera.patch";
+  #}
   {
     name = "ms-surface/0022-surface-pro-11-intel-lid-wake";
     patch = patchSrc + "/0022-surface-pro-11-intel-lid-wake.patch";
