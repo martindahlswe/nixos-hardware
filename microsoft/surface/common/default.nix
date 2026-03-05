@@ -38,8 +38,8 @@ let
   linux-surface = pkgs.fetchFromGitHub {
     owner = "martindahlswe";
     repo = "linux-surface";
-    rev = "bb355106bb7f9966518179fdc1ceff4fc380c5a7";
-    hash = "sha256-o3y3WzLfEToxAe99lezW5rdDBVJvHtUnC48fvklKVDk=";
+    rev = "8799c9396075c25c25d06a7bc5f81714e42d7a29";
+    hash = "sha256-34Wny2pCW+cPvRjxCJFwCS9D9kUmw6EsPRcgqrg3TrQ=";
   };
 
   # Fetch and build the kernel
